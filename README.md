@@ -32,15 +32,17 @@ Start here:
 - `templates/garmin-daily-screenshot.md`
 - `templates/supplement-log.md`
 - `templates/nervous-system-checkin.md`
+- `templates/daily-selftune-log.md`
 - `prompts/garmin-supplement-review.md`
 - `prompts/nervous-system-review.md`
+- `prompts/selftune-wellness-guide.md`
 
 ## Daily 10-Minute Flow
 
 1. Add one Garmin screenshot or wearable summary.
-2. Record supplements, caffeine, alcohol, medication context if you choose to note it, and major meals.
-3. Add a short subjective note: energy, mood, digestion, stress, focus, and body sensations.
-4. Add a nervous-system note: activation, shutdown, steadiness, recovery, triggers, and supports.
+2. Fill in `templates/daily-selftune-log.md`.
+3. Record supplements, caffeine, alcohol, medication context if you choose to note it, and major meals.
+4. Add nervous-system notes: accelerator, brake, activation, recovery, stress load, recovery capacity, and window of tolerance.
 5. Ask an AI assistant for a structured, non-medical review.
 6. Choose one small observation or reversible routine experiment for tomorrow.
 
@@ -90,12 +92,14 @@ selftune/
   prompts/
     garmin-supplement-review.md
     nervous-system-review.md
+    selftune-wellness-guide.md
     nutrition-review.md
     weekly-pattern-review.md
   templates/
     garmin-daily-screenshot.md
     supplement-log.md
     nervous-system-checkin.md
+    daily-selftune-log.md
     daily-checkin.md
     weekly-review.md
     monthly-review.md
