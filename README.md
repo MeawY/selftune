@@ -40,6 +40,27 @@ Start here:
 - `prompts/nervous-system-review.md`
 - `prompts/selftune-wellness-guide.md`
 
+## Nervous System Module
+
+The nervous-system module helps users observe daily patterns in stress, recovery, sleep, Garmin data, supplements, nutrition, mood, energy, and subjective body signals.
+
+SelfTune does not tell users what is wrong with them. It helps users notice what their nervous system may be trying to communicate through repeated patterns.
+
+The module is designed for personal use, coaches, therapists, wellness practitioners, and open-source builders. It uses safe, non-clinical, self-reflection language. Wearable data and subjective reports are treated as pattern-awareness inputs, not diagnostic evidence.
+
+Core files:
+
+- `docs/nervous-system-literacy.md`
+- `docs/nervous-system-safety-language.md`
+- `docs/garmin-nervous-system-workflow.md`
+- `docs/supplement-nervous-system-workflow.md`
+- `templates/daily-nervous-system-checkin.md`
+- `templates/weekly-nervous-system-review.md`
+- `templates/analysis-result-log.md`
+- `prompts/weekly-nervous-system-pattern-review.md`
+- `prompts/analysis-result-integration.md`
+- `examples/7-day-nervous-system-example.md`
+
 ## Daily 10-Minute Flow
 
 1. Add one Garmin screenshot or wearable summary.
@@ -87,20 +108,32 @@ selftune/
   docs/
     garmin-supplement-workflow.md
     garmin-nervous-system-integration.md
+    garmin-nervous-system-workflow.md
     nervous-system-literacy.md
+    nervous-system-safety-language.md
     nervous-system-workflow.md
     nutrition-nervous-system-support.md
+    supplement-nervous-system-workflow.md
     three-layer-model.md
     disclaimer.md
     privacy.md
     release-checklist.md
   prompts/
+    daily-nervous-system-reflection.md
     garmin-supplement-review.md
+    garmin-supplement-nervous-system-review.md
     nervous-system-review.md
     selftune-wellness-guide.md
     nutrition-review.md
     weekly-pattern-review.md
+    weekly-nervous-system-pattern-review.md
+    analysis-result-integration.md
   templates/
+    daily-nervous-system-checkin.md
+    weekly-nervous-system-review.md
+    garmin-nervous-system-log.md
+    supplement-and-recovery-log.md
+    analysis-result-log.md
     garmin-daily-screenshot.md
     supplement-log.md
     nervous-system-checkin.md
@@ -112,6 +145,7 @@ selftune/
     practitioner-intake.md
     obsidian-daily-note.md
   examples/
+    7-day-nervous-system-example.md
     garmin-supplement-day.md
     nervous-system-day.md
     sample-case.md

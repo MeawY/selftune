@@ -2,6 +2,8 @@
 
 Nervous-system literacy is the ability to notice and describe your state without turning it into a diagnosis.
 
+SelfTune does not tell users what is wrong with them. It helps users notice what their nervous system may be trying to communicate through patterns.
+
 In SelfTune, nervous-system literacy helps connect three kinds of information:
 
 1. Wearable data, such as Garmin sleep, heart rate, stress, activity, and recovery metrics
@@ -9,6 +11,20 @@ In SelfTune, nervous-system literacy helps connect three kinds of information:
 3. Subjective experience, such as tension, fatigue, recovery, steadiness, and felt safety
 
 These concepts are used for self-reflection only. They are not clinical categories, diagnostic labels, or treatment instructions.
+
+## Module Purpose
+
+This module helps users observe daily patterns in:
+
+- Stress and recovery
+- Sleep and rest
+- Garmin and wearable data
+- Supplements and nutrition
+- Mood and energy
+- Subjective body signals
+- Felt safety, calm, activation, and depletion
+
+The intended audience includes individuals, coaches, therapists, wellness practitioners, and builders creating non-medical self-reflection workflows.
 
 ## Core Concepts
 
