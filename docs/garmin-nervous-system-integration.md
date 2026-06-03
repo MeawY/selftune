@@ -136,6 +136,7 @@ Compare low Body Battery, low recovery, or high stress windows with:
 - Numbness
 - Calm
 - Feeling overloaded
+- A narrowed mental field of view, such as more negative thoughts, lower patience, or less flexibility
 
 The same metric can pair with different emotional states on different days.
 
@@ -161,6 +162,7 @@ Useful questions:
 - Did sustained high stress readings appear alongside digestive discomfort, shallow breathing, or tension?
 - Did morning light, offline time, warm baths, slower pacing, or longer exhales seem to support wind-down?
 - Did I become more anxious because of the data itself?
+- When Body Battery was low, did my mental field of view feel narrower or less flexible?
 
 ## Avoiding Data Stress
 

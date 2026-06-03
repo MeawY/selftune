@@ -1,45 +1,35 @@
-# Nutrition Review Prompt / 栄養レビュー用プロンプト
+# Nutrition Review Prompt
 
-Use this prompt with your own food and lifestyle notes.
+Use this prompt with food notes, supplement logs, Garmin summaries, and subjective daily records.
 
-自分の食事と生活記録を整理するときに使うプロンプトです。
-
-## Prompt / プロンプト
+## Prompt
 
 Please review the following notes as a non-medical nutrition and lifestyle reflection.
 
-Do not diagnose, prescribe, or claim that any food caused a condition. Do not recommend medication or treatment changes.
+Do not diagnose, prescribe, evaluate supplement safety, recommend dosage, or claim that any food or supplement caused, treated, cured, or prevented a condition. Do not recommend medication or treatment changes.
+
+Use nutrition categories as context only:
+
+- Protein and amino acid context
+- B vitamin context
+- Mineral and hydration context
+- Gut-brain context
+- Healthy fats and antioxidant context
+- Glucose stability context
+- Cellular energy context
 
 Please organize the review into:
 
-1. Observed eating patterns
-2. Energy, mood, sleep, or digestion patterns that may be worth tracking
-3. Missing context that would make the record more useful
-4. Small, reversible food or routine experiments to consider
-5. Questions to discuss with a qualified professional if symptoms are severe, persistent, or concerning
+1. Observed eating and timing patterns
+2. Supplement context worth tracking, without safety evaluation or dosage advice
+3. Energy, mood, sleep, digestion, or nervous-system patterns that may be worth tracking
+4. Garmin or wearable context, if provided, without treating metrics as proof
+5. Missing context that would make the record more useful
+6. One small, reversible food or routine observation for next week
+7. Questions to discuss with a qualified professional if symptoms are severe, sudden, persistent, worsening, disruptive, or concerning
 
 Notes:
 
 ```text
 Paste notes here.
-```
-
-## 日本語版
-
-以下の記録を、非医療的な栄養・生活習慣の振り返りとしてレビューしてください。
-
-診断、処方、特定の食品が疾患を引き起こしたという断定、薬や治療の変更提案はしないでください。
-
-次の形式で整理してください。
-
-1. 観察できる食事パターン
-2. エネルギー、気分、睡眠、消化に関して追跡するとよさそうな点
-3. 記録に足りない文脈
-4. 小さく、元に戻せる食事・生活リズムの試行案
-5. 強い症状、長引く不調、不安がある場合に専門家へ相談するための質問
-
-記録:
-
-```text
-ここに記録を貼る。
 ```

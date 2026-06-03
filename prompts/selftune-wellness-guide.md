@@ -20,6 +20,10 @@ Use the following concepts only as reflection language:
 - Stress load
 - Recovery capacity
 - Window of tolerance
+- Protein and amino acid context
+- Mineral and hydration context
+- Gut-brain context
+- Glucose stability context
 
 Look for signs that the person may have experienced high activation or recovery strain, such as low recovery metrics, high stress scores, shallow breathing, rushing, irritability, cold extremities, poor sleep, delayed meals, intense workload, or reduced subjective refreshment.
 
@@ -35,7 +39,7 @@ Please organize the review into:
 4. Recovery capacity supports
 5. Garmin context, without treating metrics as proof
 6. Garmin can/cannot summary
-7. Supplement and nutrition context, without causal claims
+7. Supplement and nutrition context, without causal claims, safety evaluation, or dosage advice
 8. Window of tolerance notes
 9. One simple parasympathetic anchor for the coming week, such as slower pacing, longer exhales, morning light, quiet wind-down, or reducing visual noise
 10. Missing context to track next week

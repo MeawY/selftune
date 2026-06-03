@@ -30,6 +30,7 @@ Start here:
 - `docs/garmin-nervous-system-integration.md`
 - `docs/nervous-system-literacy.md`
 - `docs/nervous-system-workflow.md`
+- `docs/nutrition-nervous-system-support.md`
 - `templates/garmin-daily-screenshot.md`
 - `templates/supplement-log.md`
 - `templates/nervous-system-checkin.md`
@@ -88,6 +89,7 @@ selftune/
     garmin-nervous-system-integration.md
     nervous-system-literacy.md
     nervous-system-workflow.md
+    nutrition-nervous-system-support.md
     three-layer-model.md
     disclaimer.md
     privacy.md
