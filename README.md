@@ -18,6 +18,26 @@ The aim is to make self-observation easier, more consistent, and more useful wit
 
 SelfTune は、睡眠、食事、気分、エネルギー、ストレス、習慣、身体感覚、環境要因などを整理し、自分の状態を継続的に観察しやすくすることを目的としています。
 
+## Default Workflow / 標準ワークフロー
+
+The default SelfTune workflow combines:
+
+1. A daily Garmin screenshot or wearable summary
+2. A supplement log
+3. A short subjective check-in
+4. A non-medical AI review prompt
+
+SelfTune の標準ワークフローは、次の4つを組み合わせます。
+
+1. Garmin などの毎日スクリーンショット、またはウェアラブル要約
+2. サプリ記録
+3. 短い主観チェックイン
+4. 非医療的なAIレビュー用プロンプト
+
+Start with `docs/garmin-supplement-workflow.md`, then use `templates/garmin-daily-screenshot.md`, `templates/supplement-log.md`, and `prompts/garmin-supplement-review.md`.
+
+まず `docs/garmin-supplement-workflow.md` を読み、`templates/garmin-daily-screenshot.md`、`templates/supplement-log.md`、`prompts/garmin-supplement-review.md` を使います。
+
 ## Who It Is For / 対象者
 
 - Individuals who want a practical self-observation system
@@ -72,14 +92,18 @@ selftune/
   SECURITY.md
   docs/
     three-layer-model.md
+    garmin-supplement-workflow.md
     disclaimer.md
     privacy.md
     release-checklist.md
   prompts/
+    garmin-supplement-review.md
     nutrition-review.md
     nervous-system-review.md
     weekly-pattern-review.md
   templates/
+    garmin-daily-screenshot.md
+    supplement-log.md
     daily-checkin.md
     weekly-review.md
     monthly-review.md
@@ -87,6 +111,7 @@ selftune/
     obsidian-daily-note.md
   examples/
     sample-case.md
+    garmin-supplement-day.md
 ```
 
 ## How To Use / 使い方
