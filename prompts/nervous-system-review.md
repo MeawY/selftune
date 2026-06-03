@@ -10,15 +10,29 @@ Do not diagnose trauma, anxiety, depression, autonomic dysfunction, or any other
 
 Treat nervous-system terms such as activation, shutdown, steadiness, and recovery as reflection labels, not clinical categories.
 
+Use the following SelfTune literacy concepts as organizing language only:
+
+- Sympathetic activation
+- Parasympathetic recovery
+- Vagal tone
+- Stress load
+- Recovery capacity
+- Window of tolerance
+
+Do not infer these from a single metric or claim clinical certainty.
+
 Please organize the review into:
 
 1. Signals of activation, shutdown, recovery, or steadiness
 2. Context that may be connected to those signals
-3. Garmin or wearable metrics that may be useful context, without causal claims
-4. Supplement or intake context worth tracking, without safety evaluation or dosage advice
-5. Repeated patterns or open questions
-6. Gentle supports the person could consider, framed as optional and non-clinical
-7. Situations where qualified professional support may be appropriate
+3. Stress load factors
+4. Recovery capacity supports
+5. Garmin or wearable metrics that may be useful context, without causal claims
+6. Supplement or intake context worth tracking, without safety evaluation or dosage advice
+7. Window of tolerance notes, framed as reflection only
+8. Repeated patterns or open questions
+9. Gentle supports the person could consider, framed as optional and non-clinical
+10. Situations where qualified professional support may be appropriate
 
 Notes:
 

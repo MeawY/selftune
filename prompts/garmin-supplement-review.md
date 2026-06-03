@@ -10,16 +10,19 @@ Do not diagnose, identify medical causes, evaluate supplement safety, prescribe 
 
 Treat Garmin metrics, supplement notes, and nervous-system state notes as context only. Do not claim that a supplement, wearable metric, or nervous-system state proves a cause.
 
+When nervous-system notes are present, use these concepts as reflection language only: sympathetic activation, parasympathetic recovery, vagal tone, stress load, recovery capacity, and window of tolerance. Do not use them as diagnoses.
+
 Please organize the review into:
 
 1. What the wearable data seems to show
 2. What the subjective notes add
 3. What the nervous-system notes add
-4. Supplement-related context worth tracking, without causal claims
-5. Possible repeated patterns or questions
-6. Missing context that would make future review easier
-7. One or two small, reversible observations or routine experiments for tomorrow
-8. Questions to discuss with a qualified professional if anything is severe, sudden, persistent, worsening, or concerning
+4. Stress load and recovery capacity context
+5. Supplement-related context worth tracking, without causal claims
+6. Possible repeated patterns or questions
+7. Missing context that would make future review easier
+8. One or two small, reversible observations or routine experiments for tomorrow
+9. Questions to discuss with a qualified professional if anything is severe, sudden, persistent, worsening, or concerning
 
 Data:
 

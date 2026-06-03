@@ -12,6 +12,8 @@ Nervous-system notes add subjective context to the data.
 
 The goal is not to label a state as a disorder. The goal is to notice what helps the day feel more workable.
 
+For the core vocabulary behind this workflow, see `docs/nervous-system-literacy.md`.
+
 ## Daily Inputs
 
 Use these inputs with the Garmin and supplement workflow:
@@ -32,6 +34,19 @@ SelfTune uses plain, non-clinical state language:
 - Recovering: softening, warming up, slowing down, returning, integrating
 
 These are reflection labels, not diagnoses.
+
+## Core Literacy Concepts
+
+SelfTune uses six nervous-system literacy concepts as reflection tools:
+
+- Sympathetic activation: activity, alertness, tension, focus, mobilization, or protective energy
+- Parasympathetic recovery: rest, digestion, sleep, repair, downshifting, or settling
+- Vagal tone: regulation capacity over time, not something to judge from one moment
+- Stress load: the total weight of physical, psychological, social, and environmental demands
+- Recovery capacity: the support available for repair, rest, and return to steadiness
+- Window of tolerance: the range where you can stay present, flexible, and connected enough to function
+
+Use these terms to organize notes and questions. Do not use them as diagnostic labels.
 
 ## 5-Minute Nervous-System Check-In
 
@@ -57,6 +72,9 @@ These are reflection labels, not diagnoses.
 - What happened before the state changed?
 - What helped me return toward steadiness?
 - What made recovery harder?
+- What increased stress load?
+- What supported recovery capacity?
+- Did my window of tolerance feel wider or narrower?
 - What is one small support I can test tomorrow?
 - Is anything severe, persistent, sudden, worsening, or concerning enough to discuss with a qualified professional?
 
