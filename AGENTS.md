@@ -4,6 +4,9 @@ This repository contains SelfTune, an open-source toolkit for AI-assisted self-o
 
 ## Working Principles
 
+- Develop this repository in English first.
+- New durable documentation, templates, prompts, examples, issues, and pull requests should be written in English.
+- Do not add bilingual headings by default. Add translations later as separate localized files when needed.
 - Keep all content non-medical.
 - Do not claim diagnosis, treatment, prevention, cure, or guaranteed health benefits.
 - Use cautious phrasing such as "may", "can help organize", "might be worth discussing", and "consider".
@@ -11,7 +14,7 @@ This repository contains SelfTune, an open-source toolkit for AI-assisted self-o
 - Encourage qualified professional support for severe, persistent, sudden, or concerning symptoms.
 - Do not provide medication, supplement, or treatment instructions.
 - Prefer clear Markdown with practical examples.
-- Use bilingual headings when adding major documents: English first, Japanese second.
+- Keep language plain, practical, and readable by non-specialists.
 
 ## Audience
 
