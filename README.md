@@ -1,8 +1,10 @@
 # SelfTune
 
-SelfTune is an open-source toolkit for AI-assisted self-health reflection, daily observation, and lifestyle review.
+AI-assisted Self Health Design
 
-SelfTune は、AIを活用した自己観察、日々の記録、生活習慣レビューのためのオープンソース・テンプレート集です。
+SelfTune is an open-source toolkit for AI-assisted self-health design, daily observation, and lifestyle review.
+
+SelfTune は、AIを活用した Self Health Design、日々の自己観察、生活習慣レビューのためのオープンソース・テンプレート集です。
 
 This project is not a medical device, diagnostic system, or treatment protocol. It is designed to support structured reflection, better record keeping, and practical conversations between individuals and qualified professionals when appropriate.
 
