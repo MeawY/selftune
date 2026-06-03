@@ -27,12 +27,14 @@ The default SelfTune workflow combines:
 Start here:
 
 - `docs/garmin-supplement-workflow.md`
+- `docs/garmin-nervous-system-integration.md`
 - `docs/nervous-system-literacy.md`
 - `docs/nervous-system-workflow.md`
 - `templates/garmin-daily-screenshot.md`
 - `templates/supplement-log.md`
 - `templates/nervous-system-checkin.md`
 - `templates/daily-selftune-log.md`
+- `templates/daily-garmin-nervous-system-log.md`
 - `prompts/garmin-supplement-review.md`
 - `prompts/nervous-system-review.md`
 - `prompts/selftune-wellness-guide.md`
@@ -83,6 +85,7 @@ selftune/
   SECURITY.md
   docs/
     garmin-supplement-workflow.md
+    garmin-nervous-system-integration.md
     nervous-system-literacy.md
     nervous-system-workflow.md
     three-layer-model.md
@@ -100,6 +103,7 @@ selftune/
     supplement-log.md
     nervous-system-checkin.md
     daily-selftune-log.md
+    daily-garmin-nervous-system-log.md
     daily-checkin.md
     weekly-review.md
     monthly-review.md

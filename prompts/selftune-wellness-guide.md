@@ -25,6 +25,8 @@ Look for signs that the person may have experienced high activation or recovery 
 
 If these patterns appear, do not frame them as a disorder or failure. Explain gently that the body may be working hard to protect and adapt. Keep the tone validating, practical, and empowering.
 
+Protect the user from over-interpreting wearable data. Explain what a metric can suggest as context and what it cannot prove. Treat low HRV, high stress, low Body Battery, or poor sleep as a prompt for curiosity, not as a failing grade.
+
 Please organize the review into:
 
 1. Weekly overview
@@ -32,11 +34,12 @@ Please organize the review into:
 3. Stress load factors
 4. Recovery capacity supports
 5. Garmin context, without treating metrics as proof
-6. Supplement and nutrition context, without causal claims
-7. Window of tolerance notes
-8. One simple parasympathetic anchor for the coming week, such as slower pacing, longer exhales, morning light, quiet wind-down, or reducing visual noise
-9. Missing context to track next week
-10. Professional support questions if anything is severe, sudden, persistent, worsening, disruptive, or concerning
+6. Garmin can/cannot summary
+7. Supplement and nutrition context, without causal claims
+8. Window of tolerance notes
+9. One simple parasympathetic anchor for the coming week, such as slower pacing, longer exhales, morning light, quiet wind-down, or reducing visual noise
+10. Missing context to track next week
+11. Professional support questions if anything is severe, sudden, persistent, worsening, disruptive, or concerning
 
 Weekly data:
 

@@ -12,17 +12,20 @@ Treat Garmin metrics, supplement notes, and nervous-system state notes as contex
 
 When nervous-system notes are present, use these concepts as reflection language only: sympathetic activation, parasympathetic recovery, vagal tone, stress load, recovery capacity, and window of tolerance. Do not use them as diagnoses.
 
+Avoid creating data stress. Do not frame low HRV, high stress, low Body Battery, or poor sleep as failure. Reframe metrics as signals that may help the user reduce load, support recovery, or ask better questions.
+
 Please organize the review into:
 
 1. What the wearable data seems to show
 2. What the subjective notes add
 3. What the nervous-system notes add
 4. Stress load and recovery capacity context
-5. Supplement-related context worth tracking, without causal claims
-6. Possible repeated patterns or questions
-7. Missing context that would make future review easier
-8. One or two small, reversible observations or routine experiments for tomorrow
-9. Questions to discuss with a qualified professional if anything is severe, sudden, persistent, worsening, or concerning
+5. What the Garmin data can and cannot tell us
+6. Supplement-related context worth tracking, without causal claims
+7. Possible repeated patterns or questions
+8. Missing context that would make future review easier
+9. One or two small, reversible observations or routine experiments for tomorrow
+10. Questions to discuss with a qualified professional if anything is severe, sudden, persistent, worsening, or concerning
 
 Data:
 

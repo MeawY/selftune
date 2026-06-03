@@ -6,6 +6,8 @@ Garmin data can provide a consistent external record of sleep, heart rate, activ
 
 The goal is not to prove that one variable caused a change. The goal is to make daily review easier and help you notice patterns worth tracking.
 
+For a deeper framework on interpreting Garmin metrics as nervous-system context, see `docs/garmin-nervous-system-integration.md`.
+
 ## Daily Inputs
 
 Use these three inputs:
@@ -28,6 +30,7 @@ Use these three inputs:
 Track only what is useful. Do not try to capture everything.
 
 - Sleep score and sleep duration
+- HRV or HRV status, if available
 - Resting heart rate, if visible
 - Heart rate range or notable spikes
 - Body Battery, if visible
@@ -65,4 +68,5 @@ Prefer asking:
 - "What patterns are worth tracking?"
 - "What context is missing?"
 - "What supports helped steadiness or recovery?"
+- "Am I treating wearable data as a helpful signal rather than a grade?"
 - "What should I discuss with a qualified professional?"
