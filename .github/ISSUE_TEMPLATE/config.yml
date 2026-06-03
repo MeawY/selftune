@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Safety and privacy note
+    url: https://github.com/
+    about: Do not post private personal records, urgent health concerns, or requests for medical advice in public issues.
