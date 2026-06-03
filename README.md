@@ -66,10 +66,13 @@ selftune/
   AGENTS.md
   LICENSE
   CONTRIBUTING.md
+  CODE_OF_CONDUCT.md
+  SECURITY.md
   docs/
     three-layer-model.md
     disclaimer.md
     privacy.md
+    release-checklist.md
   prompts/
     nutrition-review.md
     nervous-system-review.md
@@ -139,3 +142,9 @@ SelfTune は MIT License で公開されています。`LICENSE` を参照して
 SelfTune is for self-observation, journaling, and reflection. It is not medical advice. See `docs/disclaimer.md` and `docs/privacy.md` before sharing personal records or using AI tools with sensitive notes.
 
 SelfTune は自己観察、記録、内省のためのものです。医療助言ではありません。個人記録の共有やAIツールでの利用前に、`docs/disclaimer.md` と `docs/privacy.md` を確認してください。
+
+## Contributing / 貢献
+
+Contributions are welcome when they improve clarity, safety, privacy, or practical usefulness. Please read `CONTRIBUTING.md`, `CODE_OF_CONDUCT.md`, and `SECURITY.md` before opening issues or pull requests.
+
+明確さ、安全性、プライバシー、実用性を高める貢献を歓迎します。Issue や pull request を作成する前に、`CONTRIBUTING.md`、`CODE_OF_CONDUCT.md`、`SECURITY.md` を確認してください。
