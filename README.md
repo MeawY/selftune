@@ -73,8 +73,12 @@ selftune/
   prompts/
     nutrition-review.md
     nervous-system-review.md
+    weekly-pattern-review.md
   templates/
     daily-checkin.md
+    weekly-review.md
+    monthly-review.md
+    practitioner-intake.md
     obsidian-daily-note.md
   examples/
     sample-case.md
@@ -111,12 +115,10 @@ selftune/
 ## Roadmap / ロードマップ
 
 - Add bilingual core documentation
-- Expand daily, weekly, and monthly templates
-- Add practitioner-facing intake templates
+- Expand Obsidian-specific templates
 - Add Obsidian vault examples
 - Add sample workflows for AI-assisted reflection
-- Add contribution guidelines
-- Add privacy and data-handling guidance
+- Add release checklist and versioning guidance
 
 - 日英併記の基本ドキュメントを追加
 - 日次、週次、月次テンプレートを拡充
